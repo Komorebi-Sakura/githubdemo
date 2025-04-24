@@ -15,3 +15,6 @@ hello spurs! hello git!
 hello spurs! hello git!
 hello spurs! hello git! master test
 hello spurs! hello git!
+hello spurs! hello git! 
+hello spurs! hello git! hot-fix
+
